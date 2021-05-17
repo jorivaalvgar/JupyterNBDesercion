@@ -5,7 +5,7 @@ El notebook base PrediccionDesercion.ipynb puede ser usado en AWS Sagemaker
 El noteboook PrediccionDesercionIBM.ipynb puede ser usado con IBM Watson Studio
 
 Los notebook soportan varios algoritmos:
-* Adeline
+* Adaline
 * Perceptrón multicapa
 * Perceptrón regresor
 * Random Forest
