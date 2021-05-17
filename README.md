@@ -10,7 +10,4 @@ Los notebook soportan varios algoritmos:
 * Perceptrón regresor
 * Random Forest
 
-La red se puede configurar con dos hiperparámetros:
-* Epochs o ciclos de iteración de entrenamiento de la red neuronal
-* Taza de aprendizaje, valor pequeño entre  0.0 y 1.0 que determina el tamaño del paso en cada iteración mientras se mueve hacia un mínimo de una función de pérdida. 
-
+Cada algoritmo se puede configurar hiperparámetros específicos, que se encuentran dentro del notebook.
